@@ -1,0 +1,15 @@
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\UIT\HK6\Cochehoatdongcuamadoc\LAB2\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
